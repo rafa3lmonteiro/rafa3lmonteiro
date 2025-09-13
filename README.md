@@ -1,5 +1,9 @@
-# 🐧 
+# 🐧🐧🐧🐧🐧🐧🐧
 
-Por aqui vamos compartilhar um pouco de conhecimento, informações tecnicas e exemplos de codigo fonte para a comunidade.
+Por aqui vamos compartilhar um pouco de conhecimento, informações tecnicas e exemplos de codigo fonte. :books:
 
-Como diz o cantor Emicida em uma musica: Viver é partir, voltar e repartir :)
+"Viver é partir, voltar e repartir" Emicida :slightly_smiling_face:
+
+---
+
+Here we’ll share a bit of knowledge, technical information, and source code examples. :books:
