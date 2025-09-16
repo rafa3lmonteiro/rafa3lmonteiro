@@ -4,8 +4,6 @@
 
 Por aqui vamos compartilhar um pouco de conhecimento, informações tecnicas e exemplos de codigo fonte. :books:
 
-"Viver é partir, voltar e repartir" Emicida :slightly_smiling_face:
-
 ---
 
 ## Welcome!
